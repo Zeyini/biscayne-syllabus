@@ -131,3 +131,4 @@ What we need from you is a willingness to:
 - **Collaborate and Expose Your Ignorance**: Our biggest asset in all of this is other humans who have other brains. Specifically, right now, your biggest asset is *your cohort*. Make the connections and struggle together. You will be stronger together.
 - **Ask for Help From Your Instructors**: If you're hard stuck on something, and collaborating with your peers has not helped you get unstuck, we expect you to "escalate" your issue. At that point, ask your instructor. (This is what we do as software developers!)
 - **Use the Entire Prime Staff for Help** - Everyone at Prime desires to help you! That includes *all of the staff*. We're a diverse bunch of humans with a diverse bunch of experiences, and we're honestly all here for you.
+<p> Zeyini's copy </p>
